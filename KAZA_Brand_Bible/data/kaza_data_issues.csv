@@ -1,0 +1,18 @@
+scope,type,issue
+All products,Availability,"All 12 products show ""Sold out"" (available = false) on the live site at capture time."
+All products,Data completeness,"No SKU, barcode, product type or tags set on any product/variant."
+All products,Net quantity,Net quantity/size is not stated anywhere in product text; it is only visible on packaging images. Variant weights are 0 except Cloud Cream (100 g).
+All products,Page content,"Product page tabs ""Made with care / Details / Shipping & Returns"" contain generic theme placeholder text, identical on every product."
+All products,Accessibility/SEO,45 of 47 product images have no alt text; most image files keep AI-tool/screenshot export names.
+KZ-05 Blush Stick,Missing data,No description; no shade variants even though 5 different colours are shown in images; not in any collection (not reachable from Makeup/Skincare menus).
+KZ-06 Cushion Foundation,Mismatch,"URL handle is ""kaza-beauty-compact""; title has a double space (""Kaza  Cushion Foundation""); description describes a ""contour powder""/""Kaza Beauty Compact""; images show a pressed-powder compact."
+KZ-06 Cushion Foundation,Shade naming,"Shade ""Pearl Viel"" likely meant ""Pearl Veil""; ""Warm nude"" capitalisation. Variant images are named after other shades (Pearl Viel -> ""Ivory_silk"" file, Ivory Silk -> ""Vanilla_Beige"" file, Warm nude -> ""warm_sand"" file) - confirm mapping."
+KZ-04 Lip & Cheek Tint,Mismatch,"Handle ""kaza-beauty-cream-blush""; description calls it ""Cream Blush"" and is cut off mid-sentence (""...a bold pop of color, this""). Site shade names (Bare Bloom (clear) / peach kiss / Berry Glaze) differ from the shade cards (Bloom pH / Peach Kiss / Berry Bloom). No images are linked to variants. Images are low-res screenshots (~600 px)."
+KZ-09 Clear Code Serum,Naming,"URL handle is ""kaza-beauty-lip-gloss-1"" (copied from Lip Gloss); title ""Clear code serum"" lower-case."
+KZ-02 Lip Gloss,Shade naming,"Variant ""Clear Glass"" is called ""Glass Affair"" on the shade card and image file."
+KZ-01 Liquid Matte Lipstick,Shade naming,"""Terracota Heat"" misspelled (pack/shade sheet: ""Terracotta Heat""); ""Plum obsession"" capitalisation."
+KZ-12 Lip Balm,Naming,"Title lacks ""Kaza Beauty""; shades ""strawberry sorbet"" and ""Peach belini"" (Bellini) spelling/capitalisation; no shade images for any of the 4 shades; listed under Skincare collection."
+KZ-07 Kajal,Variant gap,"""Brown Muse - Rich Brown"" shown in image 02 but not sold as a variant; image alt text says ""Midnight Mousse eyeliner""."
+KZ-11 Cloud Cream / KZ-04,Naming,"Titles use lower-case ""Kaza beauty"" (inconsistent with ""Kaza Beauty"")."
+KZ-11 Cloud Cream,Size mismatch,Pack shows 50 g; site shipping weight is 100 g (may be gross/shipping weight).
+Store policies,Placeholder,"Refund policy still contains ""[INSERT RETURN ADDRESS]""; contact page lists only email aquilastudio@gmail.com and address ""India"" (no phone, VAT/trade number blank)."
